@@ -1,0 +1,2 @@
+pre-commit
+matplotlib>=3.0.0
